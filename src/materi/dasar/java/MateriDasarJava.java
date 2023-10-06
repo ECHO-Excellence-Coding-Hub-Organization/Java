@@ -7,7 +7,10 @@ public class MateriDasarJava {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
         System.out.println("Hallo");
+
     }
     
 }
+// command:java.show.server.task.status
