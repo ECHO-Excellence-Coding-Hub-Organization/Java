@@ -17,6 +17,7 @@ public class Tipe_Data_variabel {
          System.out.println("Nama Saya adalah : " +Nama + "dan Umur saya : "+ Umur);
 
          /**soal
+          * 
           * ada 2 buah ember yaitu ember a dan b ember a berisi air warna biru dan ember b berwarna merah
           * bagaimana cara menukar ember a berisi air warna merha dan b berisi air warna biru  
           */
